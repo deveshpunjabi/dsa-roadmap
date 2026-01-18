@@ -143,7 +143,7 @@
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/database. png" width="80">
+<img src="https://img.icons8.com/fluency/96/000000/database.png" width="80">
 <h3>📦 Data Structures</h3>
 <p><em>How you <strong>STORE</strong> data</em></p>
 
@@ -158,7 +158,7 @@
 
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/automation.png" width="80">
+<img src="https://img.icons8.com/fluency/96/process.png" width="80">
 <h3>⚡ Algorithms</h3>
 <p><em>How you <strong>PROCESS</strong> data</em></p>
 
@@ -221,7 +221,7 @@
 <a href="https://www.learncpp.com/"><img src="https://img.shields.io/badge/Learn-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 </th>
 <th width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo. png" width="60"><br><br>
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="60"><br><br>
 <h3>Java</h3>
 <a href="https://dev.java/learn/"><img src="https://img.shields.io/badge/Learn-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </th>
@@ -2016,7 +2016,7 @@ State = subset as bitmask
 
 ### 3️⃣ 🗺️ Pathfinding Visualizer
 
-<img src="https://img.icons8.com/fluency/96/000000/route. png" width="60">
+<img src="https://img.icons8.com/fluency/96/000000/route.png" width="60">
 
 | Aspect | Details |
 |--------|---------|
@@ -2081,7 +2081,7 @@ State = subset as bitmask
 
 ### 6️⃣ 🔍 Autocomplete System
 
-<img src="https://img.icons8.com/fluency/96/000000/search. png" width="60">
+<img src="https://img.icons8.com/fluency/96/000000/search.png" width="60">
 
 | Aspect | Details |
 |--------|---------|
@@ -2096,7 +2096,7 @@ State = subset as bitmask
 
 ### 7️⃣ 🧩 Sudoku Solver
 
-<img src="https://img.icons8.com/fluency/96/000000/grid-2.png" width="60">
+<img src="https://img.icons8.com/fluency/48/tree-structure.png" width="60">
 
 | Aspect | Details |
 |--------|---------|
@@ -2201,7 +2201,7 @@ State = subset as bitmask
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo. png" width="50"><br>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="50"><br>
 <strong><a href="https://leetcode.com/">LeetCode</a></strong><br>
 <small>Interview prep</small>
 </td>
@@ -2373,7 +2373,7 @@ State = subset as bitmask
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/fluency/30/000000/jupyter. png"><br>
+<img src="https://img.icons8.com/fluency/30/000000/jupyter.png"><br>
 <strong>Google Colab</strong>
 </td>
 <td>Cloud-based coding</td>
