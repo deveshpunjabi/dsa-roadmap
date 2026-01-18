@@ -66,8 +66,6 @@
 |:-:|---------|-------------|
 | 14 | [📅 Study Strategy](#-learning-strategy) | Daily schedule, techniques |
 | 15 | [🎯 Pattern Recognition](#-pattern-recognition-guide) | Master problem patterns |
-| 16 | [💼 Career Guidance](#-career-guidance) | Salary, job roles, next steps |
-| 17 | [✅ Mastery Checklist](#-dsa-mastery-checklist) | Track your progress |
 
 </td>
 </tr>
